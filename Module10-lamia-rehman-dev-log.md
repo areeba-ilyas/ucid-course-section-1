@@ -1,5 +1,5 @@
 # Dev Log: Indivisual
-## Date / Module: 2025-08-06 / Module 10
+## Date / Module: 2025-08-04 / Module 10
 ## Name: Lamia REhman
 
 ### GitHub Issue Links Assigned
